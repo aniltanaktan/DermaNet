@@ -85,12 +85,14 @@ This repository does not include datasets, private labels, challenge files, trai
 If you use DermaNet in your work, please cite:
 
 ```bibtex
-@InProceedings{Aktan_DermaNet,
+@InProceedings{AktAni_DermaNet_MICCAISAT2026,
   author    = {Aktan, Anil Tan and Sen, Mehmet Umut and Aptoula, Erchan and Yanikoglu, Berrin},
-  title     = {DermaNet: Flexible-View Fusion for Dermoscopic--Clinical Skin Lesion Classification},
+  title     = {{DermaNet: Flexible-View Fusion for Dermoscopic--Clinical Skin Lesion Classification}},
   booktitle = {Medical Image Computing and Computer Assisted Intervention -- MICCAI 2026 Workshops and Challenges},
-  publisher = {Springer Nature Switzerland},
+  series    = {Lecture Notes in Computer Science},
   volume    = {17271},
-  year      = {2026}
+  publisher = {Springer Nature Switzerland},
+  year      = {2026},
+  url       = {https://papers.miccai.org/miccai-2026-sat/ISIC_018.html}
 }
 ```
