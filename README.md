@@ -7,8 +7,6 @@
   <img src="docs/MICCAI_Pipeline.png" alt="DermaNet architecture: dual EfficientNetV2 streams, multi-level aggregation, view fusion, and hierarchical classification" width="100%" />
 </p>
 
-<p align="center"><em>Simplified architecture overview. See Figure 1 in the paper for the full diagram.</em></p>
-
 **Paper:** [Open-access PDF](https://papers.miccai.org/miccai-2026-sat/paper/ISIC_018.pdf) · **Review:** [OpenReview](https://openreview.net/forum?id=xDP0Va0g8E)
 
 **Authors:** Anil Tan Aktan, Mehmet Umut Şen, Erchan Aptoula, Berrin Yanıkoğlu  
